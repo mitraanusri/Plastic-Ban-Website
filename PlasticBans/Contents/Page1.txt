@@ -1,0 +1,59 @@
+<html>
+<body background="bottle.jpg">
+</html>
+</body>
+
+ <h2 style="font-size:50px;>" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <mark style="background-color: red";> EFFECTS OF PLASTIC BAGS </mark> </h2>
+
+<html>
+<body>
+<div style="background-color:tomato;color:black;padding:100px;">
+<h2> <mark style="background-color: orange";>  1.HUMAN IMPACT </mark> </h2>
+<img src="images.jpg" width="220" height="220"
+     alt="Picture of drain" title="Blockage"
+     style="float:left; margin-right: 10px; margin-bottom: 5px;
+     boarder: solid black 1px; padding: 2px" />
+
+<p style="font-size:100%;">  <br/> Plastic bags on land are one of the most common types of litter that would give and huge impact on living things. Plastic bags pose health risks to human populations over the years as they <b>leach toxins into water supplies </b> when it gets accumulated in drainage systems. Toxic chemicals from plastic are found in the blood and tissue of nearly all of us. This could lead one to cancer, birth deformity, impaired immunity, endocrine disruption and other ailments. Plastic bags can not be recycled. The recyclable symbol of three arrows in a circle is on many plastic shopping bags in the US and many other countries. It is simply used as marketing trick. Many plastic bags that are collected by recycling companies cannot really be recycled as most of these bags actually end up in landfills and sit there for hundreds of years.
+
+</div> 
+</body>
+</html>
+
+
+<html>
+<body>
+
+
+<div style="background-color:black;color:white;padding:100px;">
+  <h2> <mark style="background-color: orange";>2. ANIMAL IMPACT </mark></h2>
+
+
+<img src="index.jpg" width="220" height="220"
+     alt="Picture of turtle" title="plastic"
+     style="float:left; margin-right: 10px; margin-bottom: 5px;
+     boarder: solid black 1px; padding: 2px" />
+
+  <p style="font-size:100%;"> Many animals including both terrestrial and aquatic varieties eat plastic bags and <b> experience the ill effects of genuine medical issues.</b> Quite a number of cows die each year after eating plastic bags that end up in their grazing grounds.This has been an enormous issue in India, where cows are numerous and trash-collection sporadic. Upon surgical examination, these cows got injured by this plastic plague. It is found that they have 50 or more plastic bags in their digestive tracts.<b>Animals can be poisoned by the chemicals </b> that is used to make the plastic bags, or from chemicals substance that the plastic has absorbed while making its way through the environment. Majority of wildlife on Earth is found in the seas and oceans which means that animals in oceans are at higher risk of survival. The floating plastic bags can be misinterpreted to be jellyfish by marine animals who devour them. For example, one species that is at risk because of plastic bags issues are sea turtles. They are at higher risk to become extinct because of ingesting large amounts of plastics. Shards of plastic fester in the stomach because the plastic cannot be properly assimilate </p>
+  
+</div> 
+
+</body>
+</html>
+
+<html>
+<body>
+
+<div style="background-color:tomato;color:black;padding:100px;">
+  <h2> <mark style="background-color: orange";>3. ENVIRONMENTAL IMPACT </mark> </h2>
+
+<img src="ocean.jpg" width="220" height="220"
+     alt="Picture of ocean" title="plastic"
+     style="float:left; margin-right: 10px; margin-bottom: 5px;
+     boarder: solid black 1px; padding: 2px" />
+
+  <p style="font-size:100%;">   <br/> Litter from plastic packs isn't simply ashore. Plastic bags have <b> vigorously added to an immense measure of plastic garbage found in the North Pacific Ocean.</b> This is known as the Great Pacific Garbage Patch. It is assessed to be twofold the extent of Hawaii, and could even be as substantial as the whole mainland US. The Wild Studies Institute has revealed that as all channels go to the sea, 80% of this garbage in the sea began from land. Kamilo Beach in Hawaii is frequently covered in a few feet of plastic packs that washes in from the ocean. There additionally is a joke in New York City, which utilizes a billion plastic sacks for each year, that the blossom of the city is really a plastic shopping pack stuck in a tree. Assemble ups of enormous amounts of plastic packs are well known to block local drainage systems, particularly in creating nations. For instance, the floods in Bangladesh 20 years prior were halfway ascribed to blockages in waste frameworks from plastic shopping sacks.</p>
+  
+
+</body>
+</html>
